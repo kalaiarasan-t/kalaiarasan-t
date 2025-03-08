@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+🚀 "A sequence of logical steps sets the algorithm's pace,  
+while a logical sequence of instructions makes the program race!"
+
 <!--
 **kalaiarasan-t/kalaiarasan-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
