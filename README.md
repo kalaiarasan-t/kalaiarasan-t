@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi curiants 👋
 
 🚀 "A sequence of logical steps sets the algorithm's pace, while a logical sequence of instructions makes the program race!"
 
